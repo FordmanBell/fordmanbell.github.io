@@ -10,7 +10,7 @@ title:            Models Not Bottles
 description:      'Markets, data science, and software'
 
 url:              fordmanbell.github.io
-baseurl:          /
+baseurl:          
 
 author:
   name:           'Fordman Bell'
